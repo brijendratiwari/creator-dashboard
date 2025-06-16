@@ -13,7 +13,7 @@ server/ # Express backend
 
 
 ## Setup Frontend (Reactjs)
-cd client/client
+cd client
 npm install
 
 ## Setup Backend (Express)
